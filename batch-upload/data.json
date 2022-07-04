@@ -1,0 +1,157 @@
+[
+    {
+        "name": "BAYC #1",
+        "description": "Created by BAYC",
+        "image": "bayc-1.png",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Gray"
+            },
+            {
+                "trait_type": "Clothes",
+                "value": "Prom Dress"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Bored"
+            },
+            {
+                "trait_type": "Fur",
+                "value": "Black"
+            },
+            {
+                "trait_type": "Hat",
+                "value": "Sea Captain's Hat"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Phoneme Oh"
+            }
+        ]
+    },
+    {
+        "name": "BAYC #2",
+        "description": "Created by BAYC",
+        "image": "bayc-2.png",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Orange"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Angry"
+            },
+            {
+                "trait_type": "Fur",
+                "value": "Red"
+            },
+            {
+                "trait_type": "Hat",
+                "value": "Irish Boho"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Grin"
+            }
+        ]
+    },
+    {
+        "name": "BAYC #3",
+        "description": "Created by BAYC",
+        "image": "bayc-3.png",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Blue"
+            },
+            {
+                "trait_type": "Clothes",
+                "value": "Smoking Jacket"
+            },
+            {
+                "trait_type": "Earring",
+                "value": "Cross"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Bored"
+            },
+            {
+                "trait_type": "Fur",
+                "value": "Dark Brown"
+            },
+            {
+                "trait_type": "Hat",
+                "value": "Commie Hat"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Bored"
+            }
+        ]
+    },
+    {
+        "name": "BAYC #4",
+        "description": "Created by BAYC",
+        "image": "bayc-4.png",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "New Punk Blue"
+            },
+            {
+                "trait_type": "Clothes",
+                "value": "Tuxedo Tee"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Sleepy"
+            },
+            {
+                "trait_type": "Fur",
+                "value": "Zombie"
+            },
+            {
+                "trait_type": "Hat",
+                "value": "Fisherman's Hat"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Phoneme Oh"
+            }
+        ]
+    },
+    {
+        "name": "BAYC #5",
+        "description": "Created by BAYC",
+        "image": "bayc-5.png",
+        "attributes": [
+            {
+                "trait_type": "Background",
+                "value": "Aquamarine"
+            },
+            {
+                "trait_type": "Clothes",
+                "value": "Prison Jumpsuit"
+            },
+            {
+                "trait_type": "Eyes",
+                "value": "Closed"
+            },
+            {
+                "trait_type": "Fur",
+                "value": "Dark Brown"
+            },
+            {
+                "trait_type": "Hat",
+                "value": "Bunny Ears"
+            },
+            {
+                "trait_type": "Mouth",
+                "value": "Bored"
+            }
+        ]
+    }
+]
